@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  background-color: #ccddff;
+}
+
+.icon {
+  font-size: 27px;
+}
+
+.home-icon {
+  margin-right: 20px;
+}
+
+.margin-top {
+  margin-top: -10px;
+}
+
+.modal-button {
+  text-transform: uppercase;
+  padding: 15px 25px;
+  color: white;
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  min-width: 100px;
+  cursor: pointer;
+  outline: none;
+}
+
+.back-drop {
+  position: fixed;
+  transition: all 1.3s;
+  height: 150%;
+  width: 150%;
+}
+
+/*# sourceMappingURL=index.css.map */
