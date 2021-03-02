@@ -6,7 +6,7 @@ This website is a contacts list app to add, delete. edit contacts
 Clone repository
 
 ```sh
-   git clone https://gitlab.com/nicatd/contact-list-app.git
+   git clone https://github.com/nicatdursunlu/contacts-list-app.git
 ```
 
 ## Usage
